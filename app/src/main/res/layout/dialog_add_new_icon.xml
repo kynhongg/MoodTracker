@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="@drawable/layout_round"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="5dp">
+
+        <LinearLayout
+            android:id="@+id/layoutBtnClose"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_radius_grey_shadow"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="8dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <ImageView
+                android:id="@+id/btnClose"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:padding="5dp"
+                android:src="@drawable/ic_close" />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/imgIconNew"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:src="@drawable/background_default_sound"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@id/layoutBtnClose" />
+
+        <RelativeLayout
+            android:id="@+id/layoutEdtBlockName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/bg_radius_edt_block_name"
+            android:paddingVertical="15dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/imgIconNew">
+
+            <EditText
+                android:id="@+id/edtBlockName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:fontFamily="@font/nunito_bold_700"
+                android:gravity="center"
+                android:hint="@string/enter_icon_name"
+                android:maxLength="12"
+                android:textColor="@color/text_color"
+                android:textCursorDrawable="@color/text_color"
+                android:textSize="20sp" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/tvMaxLength"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:fontFamily="@font/nunito_regular_400"
+            android:gravity="center"
+            android:includeFontPadding="false"
+            android:text="@string/max_12_character"
+            android:textColor="@color/text_color_25"
+            android:textSize="16sp"
+            app:layout_constraintTop_toBottomOf="@id/layoutEdtBlockName" />
+
+        <LinearLayout
+            android:id="@+id/btnAddIcon"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/bg_button_done_disable"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:gravity="center"
+            app:layout_constraintTop_toBottomOf="@id/tvMaxLength">
+
+            <TextView
+                android:id="@+id/tvBtnDone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginVertical="14dp"
+                android:fontFamily="@font/nunito_extra_bold_800"
+                android:text="@string/done"
+                android:textColor="@color/grey_default_text_start"
+                android:textSize="18sp" />
+        </LinearLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</LinearLayout>

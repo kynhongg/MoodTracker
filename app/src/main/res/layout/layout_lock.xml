@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:fontFamily="@font/nunito_semi_bold_600"
+        android:text="@string/enter_passcode"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="40dp">
+
+        <ImageView
+            android:id="@+id/passcode1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="16dp"
+            android:src="@drawable/ic_round_radio_button_unchecked" />
+
+        <ImageView
+            android:id="@+id/passcode2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="16dp"
+            android:src="@drawable/ic_round_radio_button_unchecked" />
+
+        <ImageView
+            android:id="@+id/passcode3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="16dp"
+            android:src="@drawable/ic_round_radio_button_unchecked" />
+
+        <ImageView
+            android:id="@+id/passcode4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="16dp"
+            android:src="@drawable/ic_round_radio_button_unchecked" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tvNotCorrect"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="@string/passcode_incorrect"
+        android:textColor="#FF4F48"
+        android:visibility="invisible" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="20dp"
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/number1"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_marginEnd="35dp"
+            android:background="@drawable/bg_button_number_pass"
+            android:fontFamily="@font/nunito_bold_700"
+            android:gravity="center"
+            android:text="1"
+            android:textColor="@color/black"
+            android:textSize="24sp"
+            app:layout_constraintBottom_toTopOf="@id/number4"
+            app:layout_constraintEnd_toStartOf="@+id/number2"
+            app:layout_constraintHorizontal_chainStyle="packed"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/number2"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_marginEnd="35dp"
+            android:background="@drawable/bg_button_number_pass"
+            android:fontFamily="@font/nunito_bold_700"
+            android:gravity="center"
+            android:text="2"
+            android:textColor="@color/black"
+            android:textSize="24sp"
+            app:layout_constraintEnd_toStartOf="@+id/number3"
+            app:layout_constraintStart_toEndOf="@+id/number1"
+            app:layout_constraintTop_toTopOf="@+id/number1" />
+
+        <TextView
+            android:id="@+id/number3"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:background="@drawable/bg_button_number_pass"
+            android:fontFamily="@font/nunito_bold_700"
+            android:gravity="center"
+            android:text="3"
+            android:textColor="@color/black"
+            android:textSize="24sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/number2"
+            app:layout_constraintTop_toTopOf="@+id/number1" />
+
+        <TextView
+            android:id="@+id/number4"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_marginEnd="35dp"
+            android:background="@drawable/bg_button_number_pass"
+            android:fontFamily="@font/nunito_bold_700"
+            android:gravity="center"
+            android:text="4"
+            android:textColor="@color/black"
+            android:textSize="24sp"
+            app:layout_constraintBottom_toTopOf="@id/number7"
+            app:layout_constraintEnd_toStartOf="@+id/number5"
+            app:layout_constraintHorizontal_chainStyle="packed"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/number1" />
+
+        <TextView
+            android:id="@+id/number5"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_marginEnd="35dp"
+            android:background="@drawable/bg_button_number_pass"
+            android:fontFamily="@font/nunito_bold_700"
+            android:gravity="center"
+            android:text="5"
+            android:textColor="@color/black"
+            android:textSize="24sp"
+            app:layout_constraintEnd_toStartOf="@+id/number6"
+            app:layout_constraintStart_toEndOf="@+id/number4"
+            app:layout_constraintTop_toTopOf="@+id/number4" />
+
+        <TextView
+            android:id="@+id/number6"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:background="@drawable/bg_button_number_pass"
+            android:fontFamily="@font/nunito_bold_700"
+            android:gravity="center"
+            android:text="6"
+            android:textColor="@color/black"
+            android:textSize="24sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/number5"
+            app:layout_constraintTop_toTopOf="@+id/number4" />
+
+        <TextView
+            android:id="@+id/number7"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_marginEnd="35dp"
+            android:background="@drawable/bg_button_number_pass"
+            android:fontFamily="@font/nunito_bold_700"
+            android:gravity="center"
+            android:text="7"
+            android:textColor="@color/black"
+            android:textSize="24sp"
+            app:layout_constraintBottom_toTopOf="@id/number0"
+            app:layout_constraintEnd_toStartOf="@+id/number8"
+            app:layout_constraintHorizontal_chainStyle="packed"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/number4" />
+
+        <TextView
+            android:id="@+id/number8"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_marginEnd="35dp"
+            android:background="@drawable/bg_button_number_pass"
+            android:fontFamily="@font/nunito_bold_700"
+            android:gravity="center"
+            android:text="8"
+            android:textColor="@color/black"
+            android:textSize="24sp"
+            app:layout_constraintEnd_toStartOf="@+id/number9"
+            app:layout_constraintStart_toEndOf="@+id/number7"
+            app:layout_constraintTop_toTopOf="@+id/number7" />
+
+        <TextView
+            android:id="@+id/number9"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:background="@drawable/bg_button_number_pass"
+            android:fontFamily="@font/nunito_bold_700"
+            android:gravity="center"
+            android:text="9"
+            android:textColor="@color/black"
+            android:textSize="24sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/number8"
+            app:layout_constraintTop_toTopOf="@+id/number7" />
+
+        <TextView
+            android:id="@+id/btnExit"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:background="@drawable/bg_button_number_pass"
+            android:fontFamily="@font/nunito_bold_700"
+            android:gravity="center"
+            android:text="@string/txt_exit"
+            android:textColor="#39C870"
+            android:textSize="15sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintHorizontal_chainStyle="packed"
+            app:layout_constraintStart_toStartOf="@id/number7"
+            app:layout_constraintTop_toBottomOf="@id/number7" />
+
+        <TextView
+            android:id="@+id/number0"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:background="@drawable/bg_button_number_pass"
+            android:fontFamily="@font/nunito_bold_700"
+            android:gravity="center"
+            android:text="0"
+            android:textColor="@color/black"
+            android:textSize="24sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_chainStyle="packed"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/number7" />
+
+        <TextView
+            android:id="@+id/imgDelete"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:background="@drawable/bg_button_number_pass"
+            android:fontFamily="@font/nunito_bold_700"
+            android:gravity="center"
+            android:text="@string/delete"
+            android:textColor="#FF4F48"
+            android:textSize="14sp"
+            app:layout_constraintStart_toStartOf="@+id/number9"
+            app:layout_constraintTop_toTopOf="@+id/number0" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <View
+        android:id="@+id/banner"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:layout_marginTop="8dp" />
+</LinearLayout>

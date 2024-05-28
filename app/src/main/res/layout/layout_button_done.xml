@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layoutButtonDone"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_button_done"
+    android:foreground="?android:attr/selectableItemBackground"
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/tvButtonDone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginVertical="16dp"
+        android:fontFamily="@font/nunito_extra_bold_800"
+        android:text="@string/done"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+</LinearLayout>

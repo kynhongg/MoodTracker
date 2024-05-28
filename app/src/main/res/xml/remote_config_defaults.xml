@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<defaults>
+    <entry>
+        <key>show_inter</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>show_open_ad</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>show_native</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>show_banner</key>
+        <value>true</value>
+    </entry>
+</defaults>

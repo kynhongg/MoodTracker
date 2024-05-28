@@ -1,0 +1,175 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/bacground_tablayout_setting_bean.xml" value="0.1955" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/background_create_new_block.xml" value="0.1745" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/background_default_sound.xml" value="0.1955" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/background_select_sound.xml" value="0.1955" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/bg_border_spinner.xml" value="0.1705" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/bg_button_delete.xml" value="0.1765" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/bg_button_done.xml" value="0.183" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/bg_button_done_disable.xml" value="0.1885" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/bg_button_number_pass.xml" value="0.1775" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/bg_button_relax.xml" value="0.183" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/bg_control_setting.xml" value="0.173" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/bg_item_block_setting.xml" value="0.168" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/bg_item_premium.xml" value="0.1885" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/bg_number_order_icon_ranking.xml" value="0.177" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/bg_pack_premium.xml" value="0.1885" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/bg_pack_premium_select.xml" value="0.185" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/bg_premium.xml" value="0.1725" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/bg_radius_bottom.xml" value="0.196" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/bg_radius_edt_block_name.xml" value="0.1785" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/bg_radius_grey_cloud.xml" value="0.1735" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/bg_radius_grey_shadow.xml" value="0.2235" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/bg_radius_item_choose_time.xml" value="0.2235" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/bg_radius_item_choose_time_selected.xml" value="0.2235" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/bg_radius_purple_shadow.xml" value="0.279" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/bg_radius_salmon_stroke_grey_shadow.xml" value="0.1705" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/bg_radius_watch_ads.xml" value="0.185" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/bg_round_time_create_bean.xml" value="0.2615" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/bg_round_time_sleep.xml" value="0.2075" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/bg_round_time_sound.xml" value="0.1955" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/bg_round_white_top_bottom.xml" value="0.1735" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/bg_stroke_mecury.xml" value="0.1595" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/bg_stroke_time_line.xml" value="0.2235" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/bg_txt_best_value.xml" value="0.185" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/button_log_out.xml" value="0.1775" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/button_sync_now.xml" value="0.1775" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/circle_number_of_bean.xml" value="0.179" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/custom_switch.xml" value="0.2075" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/gnt_outline_shape.xml" value="0.182" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/gnt_rounded_corners_shape.xml" value="0.182" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/ic_add_photo.xml" value="0.1735" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/ic_arrow_down.xml" value="0.2695" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/ic_back.xml" value="0.279" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/ic_baseline_backspace_24.xml" value="0.173" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/ic_baseline_live_tv_24.xml" value="0.185" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/ic_bean_type_1.xml" value="0.1935" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/ic_bean_type_1_off.xml" value="0.1935" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/ic_bean_type_2_off.xml" value="0.1935" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/ic_close.xml" value="0.179" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/ic_edit.xml" value="0.2075" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/ic_emoji.xml" value="0.2235" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/ic_emoji_filter.xml" value="0.2235" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/ic_emoji_filter_home.xml" value="0.2235" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/ic_icon_0.xml" value="0.163" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/ic_icon_16.xml" value="0.102" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/ic_icon_16_off.xml" value="0.1755" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/ic_icon_premium_1.xml" value="0.185" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/ic_image_none_pick.xml" value="0.169" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/ic_logo_bean.xml" value="0.1955" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/ic_remove_image.xml" value="0.1735" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/ic_round_radio_button_checked.xml" value="0.1775" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/ic_round_radio_button_unchecked.xml" value="0.173" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/ic_setting_add_bean.xml" value="0.279" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/ic_subtract.xml" value="0.2235" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/ic_view.xml" value="0.1745" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/layout_round.xml" value="0.2235" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/layout_round_10.xml" value="0.2075" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/layout_round_top.xml" value="0.183" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/radio_button_regular_state.xml" value="0.1705" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/radio_button_select_state.xml" value="0.1705" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/radio_button_style.xml" value="0.1705" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/round_image_sync.xml" value="0.1775" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/seekbar_border_shadow.xml" value="0.1745" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/seekbar_custom_thumb.xml" value="0.1745" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/seekbar_progress.xml" value="0.1745" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/seekbar_progress_drawable.xml" value="0.1745" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/share_scale_radio_button.xml" value="0.1705" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/switch_thumb.xml" value="0.163" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/drawable/switch_track.xml" value="0.2075" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout-v23/activity_add_bean.xml" value="0.365625" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/activity_add_bean.xml" value="0.33" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/activity_choose_background_image.xml" value="0.22" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/activity_music_relax.xml" value="0.25" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/activity_premium.xml" value="0.67" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/activity_setting_bean.xml" value="0.33" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/activity_share_image.xml" value="0.2" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/activity_sync_data.xml" value="0.25" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/activity_time_line.xml" value="0.33" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/activity_tutorial.xml" value="0.36666666666666664" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/bg_button_done_disable.xml" value="0.365625" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/dialog_add_new_block.xml" value="0.33" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/dialog_add_new_icon.xml" value="0.25" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/dialog_alert_rate_app.xml" value="0.36666666666666664" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/dialog_ask_buy_premium.xml" value="0.25" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/dialog_ask_watch_ads_or_buy_premium.xml" value="0.33" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/dialog_change_info_icon.xml" value="0.33" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/dialog_confirm_exit.xml" value="0.75" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/dialog_confirm_remove_icon.xml" value="0.36666666666666664" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/dialog_loading.xml" value="0.25" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/dialog_move_block.xml" value="0.22" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/dialog_need_permission.xml" value="0.25" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/dialog_pick_icon.xml" value="0.22" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/dialog_pick_image.xml" value="0.2" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/dialog_pick_time_sleep.xml" value="0.22" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/filter_bottom_sheet_dialog.xml" value="0.25" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/fragment_calendar.xml" value="0.25" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/fragment_relax.xml" value="0.25" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/fragment_report.xml" value="0.25" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/fragment_setting.xml" value="0.25" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/fragment_tutorial.xml" value="0.25" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/item_background_image_app.xml" value="0.36614583333333334" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/item_block_setting.xml" value="0.25" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/item_body_block_icon.xml" value="0.36666666666666664" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/item_day_calendar_home.xml" value="0.365625" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/item_icon_setting.xml" value="0.33" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/item_layout_choose_bean.xml" value="0.365625" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/item_layout_report_bean.xml" value="0.75" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/item_layout_timeline.xml" value="0.25" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/item_time_dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/item_trigger_sound.xml" value="0.33" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/item_type_body_block_icon.xml" value="0.25" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/item_type_header.xml" value="0.365625" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/layout_action_bean.xml" value="0.33" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/layout_banner.xml" value="0.25" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/layout_benefit_premium.xml" value="0.25" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/layout_benifit_premium.xml" value="0.36666666666666664" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/layout_button_done.xml" value="0.36666666666666664" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/layout_dialog_choose_time.xml" value="0.36666666666666664" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/layout_dialog_pick_date_add_bean.xml" value="0.36666666666666664" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/layout_item_block.xml" value="0.25" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/layout_item_icon_bean.xml" value="0.365625" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/layout_item_pick_image.xml" value="0.25" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/layout_item_ranking.xml" value="0.33" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/layout_lock.xml" value="0.33" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/layout_mood_chart.xml" value="0.2" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/layout_music_calm.xml" value="0.25" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/layout_native_ads.xml" value="0.36666666666666664" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/layout_native_ads2.xml" value="0.36666666666666664" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/layout_popup_select_time_music.xml" value="0.25" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/layout_radio_button_scale.xml" value="0.25" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/layout_sleep_statistic.xml" value="0.33" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/layout_source_icon.xml" value="0.365625" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/layout_sync_data_and_lock_app.xml" value="0.36614583333333334" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/layout_tab_edit_order.xml" value="0.25" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/layout_theme_screen.xml" value="0.33" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/layout_time_sleep.xml" value="0.5" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/layout_time_sleep_hidden.xml" value="0.25" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/layout_today_note.xml" value="0.36666666666666664" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/layout_today_photo.xml" value="0.33" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/layout_tutorial_step_1.xml" value="0.22" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/layout_tutorial_step_2.xml" value="0.33" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/layout_tutorial_step_3.xml" value="0.22" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/setting_item_body_block_icon.xml" value="0.33" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/setting_item_type_body_block_icon.xml" value="0.36666666666666664" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/simple_spinner_dropdown.xml" value="0.3651041666666667" />
+        <entry key="..\:/New folder/BeanDaily/app/src/main/res/layout/spinner_text.xml" value="0.36614583333333334" />
+        <entry key="..\:/Project/beandaily/app/src/main/res/layout/fragment_calendar.xml" value="0.5040760869565217" />
+        <entry key="..\:/Project/beandaily/app/src/main/res/layout/fragment_home.xml" value="0.5192708333333333" />
+        <entry key="..\:/Project/beandaily/app/src/main/res/layout/item_day_calendar_home.xml" value="0.5192708333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

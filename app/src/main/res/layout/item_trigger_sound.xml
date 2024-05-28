@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_marginEnd="10dp"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/layoutSound"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/background_default_sound"
+        android:paddingHorizontal="1dp"
+        android:paddingTop="1dp"
+        android:paddingBottom="2dp">
+
+        <ImageView
+            android:id="@+id/imgSound"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            tools:src="@drawable/trigger_sound_1" />
+
+        <ImageView
+            android:id="@+id/icPremium"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="10dp"
+            android:src="@drawable/ic_premium"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tvSoundName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:fontFamily="@font/nunito_semi_bold_600"
+        android:gravity="center"
+        android:textColor="@color/text_color"
+        android:textSize="16sp"
+        tools:text="Cat Purr" />
+</LinearLayout>
